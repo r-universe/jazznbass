@@ -5,3 +5,6 @@
 [submodule "scan"]
 	path = scan
 	url = https://github.com/jazznbass/scan
+[submodule "scplot"]
+	path = scplot
+	url = https://github.com/jazznbass/scplot
